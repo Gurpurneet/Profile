@@ -11,3 +11,5 @@
 
 
 [GNDEC Website](https://www.gndec.ac.in/)
+
+[PTU ID Card](Files/PTU_ID.pdf)
