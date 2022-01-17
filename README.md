@@ -7,9 +7,7 @@
 **Email: gurpurneetkaur@gndec.ac.in**
 
 
-| **[Qualifications](Qualifications.md)** | Experience | Publications | Courses Attended | Bio-Data |
+| **[Qualifications](Qualifications.md)** | **[Experience](Experience.md)** | Publications | Courses Attended | Bio-Data |
 
 
-[GNDEC Website](https://www.gndec.ac.in/)
 
-[PTU ID Card](Files/PTU_ID.pdf)
